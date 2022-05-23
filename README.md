@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **ahmedhamed4121999@gmail.com**
 
+### About me:
+My name is Ahmed Hamed.
+I am a self taught programmer. I first started learning programming from the course cs50's Intro to Computer Science and found my passion for solving problems and creating software to help me and other people with their daily life.
+I usually do web development with Django and React JS.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hamed-556338215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hamed-556338215/" height="30" width="40" /></a>
