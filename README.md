@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
 <h3 align="center">Backend Developer from egypt</h3>
 
-- 🌱 I’m currently learning **Node.js, Express and TypeScript**
+- 🌱 I’m currently learning **c#, ASP.Net**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, NodeJs, Express**
 
 - 📫 How to reach me **ahmedhamed4121999@gmail.com**
 
