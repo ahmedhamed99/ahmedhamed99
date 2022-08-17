@@ -9,8 +9,8 @@
 
 ### About me:
 My name is Ahmed Hamed.
-I am a self taught programmer. I first started learning programming from the course cs50's Intro to Computer Science and found my passion for solving problems and creating software to help me and other people with their daily life.
-I usually do web development with Django.
+I am a self-taught programmer with great love and passion for software engineering. I first started learning programming from the course cs50's Intro to Computer Science and found my passion for solving problems and creating software to help me and other people with their daily life.
+Currently interested in problem-solving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
