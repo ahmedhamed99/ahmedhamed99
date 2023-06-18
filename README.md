@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
 <h3 align="center">Backend Developer from egypt</h3>
 
-- 🌱 I’m currently learning **c#, ASP.Net**
+- 🌱 I’m currently learning **NodeJs, Express**
 
 - 💬 Ask me about **Python, Django, NodeJs, Express**
 
