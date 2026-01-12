@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
 <h3 align="center">Backend Developer from egypt</h3>
 
-- 🌱 I’m currently learning **NodeJs, Express**
+- 🌱 I’m currently learning **SAP, ABAP**
 
 - 💬 Ask me about **Python, Django, NodeJs, Express**
 
@@ -9,8 +9,7 @@
 
 ### About me:
 My name is Ahmed Hamed.
-I am a self-taught programmer with great love and passion for software engineering. I first started learning programming from the course cs50's Intro to Computer Science and found my passion for solving problems and creating software to help me and other people with their daily life.
-Currently interested in problem-solving.
+Aspiring Junior SAP ABAP Developer with hands-on proficiency in core ABAP technologies including ABAP Programming, Data Dictionary (DDIC), Module Pool, ALV Reports, Interactive Reports, Adobe Forms, BAPI data migration, and Enhancements. Leveraging a solid backend foundation (Node.js, Express, Python, PostgreSQL, RESTful APIs, AWS, Docker) gained through real-world projects and certifications (Harvard CS50, Udacity Full Stack Nanodegree), I excel at writing clean, maintainable code and optimizing systems using data structures and Agile practices. Excited to bring technical adaptability and business acumen to SAP development roles, focusing on custom solutions and process improvements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
